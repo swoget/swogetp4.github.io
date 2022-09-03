@@ -21,6 +21,10 @@ body {
     justify-content: flex-end;
 }
 
+.row {
+    color: white;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
